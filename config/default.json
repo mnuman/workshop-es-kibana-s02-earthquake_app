@@ -1,0 +1,9 @@
+{
+    "elastic": {
+        "node": "https://localhost:9200",
+        "username": "elastic",
+        "password": "elastic",
+        "ca": "./http_ca.crt",
+        "apiKey": "T2NBSDFaTUIxMExjeVBGZ0FteG86Qk9aRTM3UFJRcEtrVFRkUHlFVE5zdw=="
+    }
+}
